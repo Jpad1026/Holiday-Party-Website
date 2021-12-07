@@ -1,0 +1,29 @@
+body{
+  background-image: url("https://wallpapercave.com/wp/sgctrGm.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  padding-top: 100px;
+  text-align: center;
+  color: white;
+  font-family:papyrus;
+}
+h2{
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+  font-family:papyrus;
+}
+header{
+  image-orientation: center;
+}
+.img-responsive {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+}
